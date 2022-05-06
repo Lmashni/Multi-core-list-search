@@ -8,6 +8,6 @@ The coe detects the number of cores on your device and gives the option to speci
 Run in directory to start GUI
 
 ```console
-python Muli_core_list_search.py
+python Muli_core_list_search_ui.py
 
 ```

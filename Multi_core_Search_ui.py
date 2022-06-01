@@ -160,7 +160,7 @@ def save_list():
 
 root = Tk()
 
-root.geometry('500x500')
+root.geometry('1200x700')
 
 T = Text(root, font='helvetica')
 T.grid(row=1,column=0)
